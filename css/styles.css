@@ -1,0 +1,135 @@
+
+body {
+	font-family: "Roboto", sans-serif;
+	background-color: #ffffff;
+	color: #434455;
+}
+
+/* прибираємо крапки у списках і підкреслення у посиланнях */
+
+a {
+	text-decoration: none;
+}
+ul {
+	list-style: none;
+}
+
+.logo {
+	font-family: "Raleway", sans-serif;
+	font-weight: 700;
+	font-size: 18px;
+	line-height: 117%;
+	letter-spacing: 0.03em;
+	text-transform: uppercase;
+	color: #4d5ae5;
+}
+
+nav span {
+	color: #2e2f42;
+}
+
+.nav-menu {
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 1.5;
+	letter-spacing: 0.02em;
+	color: #2e2f42;
+}
+
+.nav-menu:hover,
+.nav-menu:focus {
+	color: #404bbf;
+}
+
+.header-ad {
+	font-style: normal;
+}
+
+.header-con {
+	font-size: 16px;
+	line-height: 1.5;
+	letter-spacing: 0.02em;
+	color: #434455;
+}
+
+.header-con:hover,
+.header-con:focus {
+	color: #404bbf;
+}
+
+.sec1 {
+	background-color: #2e2f42;
+}
+
+.sec1-h {
+	font-size: 56px;
+	line-height: 1.07;
+	text-align: center;
+	letter-spacing: 0.02em;
+	color: #ffffff;
+}
+
+.sec1-button {
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 150%;
+	letter-spacing: 0.04em;
+	color: #ffffff;
+	background-color: #4d5ae5;
+}
+
+.sec1-button:hover,
+.sec1-button:focus {
+	background-color: #404bbf;
+	cursor: pointer;
+}
+
+.sec2-h {
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 1.2;
+	letter-spacing: 0.02em;
+	color: #2e2f42;
+}
+
+.sec2-p {
+	font-size: 16px;
+	line-height: 1.5;
+	letter-spacing: 0.02em;
+	color: #434455;
+}
+
+.sec3 {
+	background-color: #f4f4fd;
+}
+
+.sec3-h {
+	font-size: 36px;
+	line-height: 1.11;
+	text-align: center;
+	letter-spacing: 0.02em;
+	text-transform: capitalize;
+	color: #2e2f42;
+}
+
+.sec3-li {
+	background-color: #ffffff;
+}
+
+.footer {
+	background-color: #2e2f42;
+}
+
+footer span {
+	color: #f4f4fd;
+}
+
+.footer-l {
+	color: #f4f4fd;
+}
+
+.footer-p {
+	line-height: 1.5;
+	color: #f4f4fd;
+	letter-spacing: 0.02em;
+}
