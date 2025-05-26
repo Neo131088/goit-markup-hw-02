@@ -69,7 +69,7 @@ nav span {
 	color: #ffffff;
 }
 
-.sec-button {
+.section-button {
 	font-weight: 500;
 	font-size: 16px;
 	line-height: 150%;
@@ -78,8 +78,8 @@ nav span {
 	background-color: #4d5ae5;
 }
 
-.sec-button:hover,
-.sec-button:focus {
+.section-button:hover,
+.section-button:focus {
 	background-color: #404bbf;
 	cursor: pointer;
 }
