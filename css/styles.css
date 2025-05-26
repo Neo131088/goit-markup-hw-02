@@ -99,11 +99,11 @@ nav span {
 	color: #434455;
 }
 
-.sec3 {
+.sec-our-team {
 	background-color: #f4f4fd;
 }
 
-.sec3-h {
+.sec-our-team-h {
 	font-size: 36px;
 	line-height: 1.11;
 	text-align: center;
@@ -112,7 +112,7 @@ nav span {
 	color: #2e2f42;
 }
 
-.sec3-li {
+.sec-our-team-li {
 	background-color: #ffffff;
 }
 
