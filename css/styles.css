@@ -41,11 +41,11 @@ nav span {
 	color: #404bbf;
 }
 
-.header-ad {
+.header-address {
 	font-style: normal;
 }
 
-.header-con {
+.header-contact {
 	font-size: 16px;
 	line-height: 1.5;
 	letter-spacing: 0.02em;
@@ -57,11 +57,11 @@ nav span {
 	color: #404bbf;
 }
 
-.sec1 {
+.section-one {
 	background-color: #2e2f42;
 }
 
-.sec1-h {
+.section-one-h {
 	font-size: 56px;
 	line-height: 1.07;
 	text-align: center;
@@ -69,7 +69,7 @@ nav span {
 	color: #ffffff;
 }
 
-.sec1-button {
+.sec-button {
 	font-weight: 500;
 	font-size: 16px;
 	line-height: 150%;
@@ -78,13 +78,13 @@ nav span {
 	background-color: #4d5ae5;
 }
 
-.sec1-button:hover,
-.sec1-button:focus {
+.sec-button:hover,
+.sec-button:focus {
 	background-color: #404bbf;
 	cursor: pointer;
 }
 
-.sec2-h {
+.portfolio-h {
 	font-weight: 500;
 	font-size: 20px;
 	line-height: 1.2;
@@ -92,7 +92,7 @@ nav span {
 	color: #2e2f42;
 }
 
-.sec2-p {
+.portfolio-p {
 	font-size: 16px;
 	line-height: 1.5;
 	letter-spacing: 0.02em;
